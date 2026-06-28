@@ -76,9 +76,9 @@ BLOCK E · Specialize + career    Mo 9–12     P15 AI/LLM → P16 Detection/Pur
 **Objective:** Run the systematic loop (recon → enumerate → map → break an assumption at a trust boundary → exploit → impact → escalate → report) by instinct. Think in trust boundaries and assumptions, not features.
 
 **Labs / setup**
-- [ ] Accounts created: PortSwigger Academy, TryHackMe, Hack The Box
-- [ ] Juice Shop running locally: `docker run -d -p 3000:3000 bkimminich/juice-shop`
-- [ ] Burp Community intercepting + modifying a Juice Shop request in flight
+- [X] Accounts created: PortSwigger Academy, TryHackMe, Hack The Box
+- [X] Juice Shop running locally: `docker run -d -p 3000:3000 bkimminich/juice-shop`
+- [X] Burp Community intercepting + modifying a Juice Shop request in flight
 - [ ] OverTheWire **Bandit** levels 0–15
 - [ ] PortSwigger **Access control** apprentice labs (all)
 
