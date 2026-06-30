@@ -112,7 +112,7 @@ BLOCK E · Specialize + career    Mo 9–12     P15 AI/LLM → P16 Detection/Pur
 
 **Labs**
 - [ ] THM recon-focused rooms (passive then active)
-- [ ] OverTheWire **Bandit** 16–25
+- [X] OverTheWire **Bandit** 16–25
 - [ ] Enumerate Juice Shop fully: endpoints, params, tech stack, roles — into structured notes
 - [ ] Stand up a note system (Obsidian / markdown repo / CherryTree) — your engagement brain
 
