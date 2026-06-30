@@ -79,7 +79,7 @@ BLOCK E · Specialize + career    Mo 9–12     P15 AI/LLM → P16 Detection/Pur
 - [X] Accounts created: PortSwigger Academy, TryHackMe, Hack The Box
 - [X] Juice Shop running locally: `docker run -d -p 3000:3000 bkimminich/juice-shop`
 - [X] Burp Community intercepting + modifying a Juice Shop request in flight
-- [ ] OverTheWire **Bandit** levels 0–15
+- [X] OverTheWire **Bandit** levels 0–15
 - [ ] PortSwigger **Access control** apprentice labs (all)
 
 **Reading**
